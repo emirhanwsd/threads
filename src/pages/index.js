@@ -44,7 +44,7 @@ const Home = () => {
         </svg>
       </header>
 
-      <div className="border-b border-gray-300 dark:border-zinc-600">
+      <div className="border-b border-gray-300 dark:border-zinc-700">
         <div className="px-2.5 py-5">
           <div className="flex items-start gap-x-3">
             <div className="space-y-1.5">
@@ -62,13 +62,13 @@ const Home = () => {
             <div className="flex-1">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-x-1.5">
-                  <h5 className="text-lg font-bold">zuck</h5>
+                  <h5 className="font-semibold">zuck</h5>
 
                   <CheckBadgeIcon className="h-4 w-4 text-sky-500" />
                 </div>
 
                 <div className="flex items-center gap-x-5">
-                  <h6 className="text-lg text-gray-400 dark:text-zinc-500">
+                  <h6 className="text-gray-400 dark:text-zinc-500">
                     33m
                   </h6>
 
@@ -78,7 +78,7 @@ const Home = () => {
                 </div>
               </div>
 
-              <p className="mt-2 text-lg font-medium">
+              <p className="mt-2 text-sm font-medium">
                 10 million sign ups in seven hours.
               </p>
 
@@ -100,7 +100,7 @@ const Home = () => {
                 </button>
               </div>
 
-              <div className="mt-2.5 text-lg text-gray-400 dark:text-zinc-500">
+              <div className="mt-2.5 text-gray-400 dark:text-zinc-500">
                 26 replies • 112 likes
               </div>
             </div>
@@ -122,13 +122,13 @@ const Home = () => {
 
               <div className="flex justify-center">
                 <img
-                  className="-mx-1 h-5 w-5 bg-yellow-300 dark:bg-yellow-600 rounded-full border-2 border-white dark:border-zinc-900"
+                  className="-mx-1 h-5 w-5 bg-yellow-300 dark:bg-yellow-600 rounded-full border-2 border-white dark:border-zinc-950"
                   src="/assets/mattew.svg"
                   alt=""
                 />
 
                 <img
-                  className="-mx-1 h-5 w-5 bg-green-300 dark:bg-green-600 rounded-full border-2 border-white dark:border-zinc-900"
+                  className="-mx-1 h-5 w-5 bg-green-300 dark:bg-green-600 rounded-full border-2 border-white dark:border-zinc-950"
                   src="/assets/michael.svg"
                   alt=""
                 />
@@ -138,13 +138,13 @@ const Home = () => {
             <div className="flex-1">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-x-1.5">
-                  <h5 className="text-lg font-bold">elonmusk</h5>
+                  <h5 className="font-semibold">elonmusk</h5>
 
                   <CheckBadgeIcon className="h-4 w-4 text-sky-500" />
                 </div>
 
                 <div className="flex items-center gap-x-5">
-                  <h6 className="text-lg text-gray-400 dark:text-zinc-500">
+                  <h6 className="text-gray-400 dark:text-zinc-500">
                     33m
                   </h6>
 
@@ -154,7 +154,7 @@ const Home = () => {
                 </div>
               </div>
 
-              <p className="mt-2 text-lg font-medium">👍</p>
+              <p className="mt-2 text-sm font-medium">👍</p>
 
               <div className="mt-2.5 flex gap-x-4">
                 <button>
@@ -174,7 +174,7 @@ const Home = () => {
                 </button>
               </div>
 
-              <div className="mt-2.5 text-lg text-gray-400 dark:text-zinc-500">
+              <div className="mt-2.5 text-gray-400 dark:text-zinc-500">
                 26 replies • 112 likes
               </div>
             </div>
@@ -182,7 +182,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="border-b border-gray-300 dark:border-zinc-600">
+      <div className="border-b border-gray-300 dark:border-zinc-700">
         <div className="px-2.5 py-5">
           <div className="flex items-start gap-x-3">
             <div className="space-y-1.5">
@@ -198,13 +198,13 @@ const Home = () => {
 
               <div className="flex justify-center">
                 <img
-                  className="-mx-1 h-5 w-5 bg-blue-300 dark:bg-blue-600 rounded-full border-2 border-white dark:border-zinc-900"
+                  className="-mx-1 h-5 w-5 bg-blue-300 dark:bg-blue-600 rounded-full border-2 border-white dark:border-zinc-950"
                   src="/assets/justin.svg"
                   alt=""
                 />
 
                 <img
-                  className="-mx-1 h-5 w-5 bg-red-300 dark:bg-red-600 rounded-full border-2 border-white dark:border-zinc-900"
+                  className="-mx-1 h-5 w-5 bg-red-300 dark:bg-red-600 rounded-full border-2 border-white dark:border-zinc-950"
                   src="/assets/ed.svg"
                   alt=""
                 />
@@ -214,13 +214,13 @@ const Home = () => {
             <div className="flex-1">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-x-1.5">
-                  <h5 className="text-lg font-bold">archillect</h5>
+                  <h5 className="font-semibold">archillect</h5>
 
                   <CheckBadgeIcon className="h-4 w-4 text-sky-500" />
                 </div>
 
                 <div className="flex items-center gap-x-5">
-                  <h6 className="text-lg text-gray-400 dark:text-zinc-500">
+                  <h6 className="text-gray-400 dark:text-zinc-500">
                     33m
                   </h6>
 
@@ -230,17 +230,17 @@ const Home = () => {
                 </div>
               </div>
 
-              <p className="mt-2 text-lg font-medium">hey, threads 👀</p>
+              <p className="mt-2 text-sm font-medium">hey, threads 👀</p>
 
-              <div className="mt-2 overflow-auto flex gap-x-2.5">
+              <div className="mt-2 snap-x snap-mandatory overflow-auto flex gap-x-2.5">
                 <img
-                  className="rounded-lg"
+                  className="rounded-lg snap-center"
                   src="https://images.unsplash.com/photo-1517933981816-1f2d0c2ffc0d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
                   alt=""
                 />
 
                 <img
-                  className="rounded-lg"
+                  className="rounded-lg snap-center"
                   src="https://images.unsplash.com/photo-1526109753379-32666ca7fe2f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
                   alt=""
                 />
@@ -264,7 +264,7 @@ const Home = () => {
                 </button>
               </div>
 
-              <div className="mt-2.5 text-lg text-gray-400 dark:text-zinc-500">
+              <div className="mt-2.5 text-gray-400 dark:text-zinc-500">
                 26 replies • 112 likes
               </div>
             </div>
@@ -272,7 +272,7 @@ const Home = () => {
         </div>
       </div>
 
-      <div className="z-10 sticky w-full bottom-0 py-6 bg-white dark:bg-zinc-900 border-t border-gray-300 dark:border-zinc-600">
+      <div className="z-10 sticky w-full bottom-0 py-6 bg-white dark:bg-zinc-950 border-t border-gray-300 dark:border-zinc-700">
         <footer className="px-12 flex justify-between">
           <button>
             <HomeIcon className="h-6 w-6 stroke-2 text-black dark:text-white" />
