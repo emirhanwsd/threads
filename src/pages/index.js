@@ -56,7 +56,7 @@ const Home = () => {
                 />
               </button>
 
-              <div className="mx-auto w-0.5 h-16 bg-gray-200 dark:bg-zinc-700"></div>
+              <div className="mx-auto w-0.5 h-14 bg-gray-200 dark:bg-zinc-700"></div>
             </div>
 
             <div className="flex-1">
@@ -118,7 +118,7 @@ const Home = () => {
                 />
               </button>
 
-              <div className="mx-auto w-0.5 h-12 bg-gray-200 dark:bg-zinc-700"></div>
+              <div className="mx-auto w-0.5 h-10 bg-gray-200 dark:bg-zinc-700"></div>
 
               <div className="flex justify-center">
                 <img
@@ -194,7 +194,7 @@ const Home = () => {
                 />
               </button>
 
-              <div className="mx-auto w-0.5 h-64 bg-gray-200 dark:bg-zinc-700"></div>
+              <div className="mx-auto w-0.5 h-60 bg-gray-200 dark:bg-zinc-700"></div>
 
               <div className="flex justify-center">
                 <img
