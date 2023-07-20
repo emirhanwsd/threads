@@ -194,7 +194,7 @@ const Home = () => {
                 />
               </button>
 
-              <div className="mx-auto w-0.5 h-60 bg-gray-200 dark:bg-zinc-700"></div>
+              <div className="mx-auto w-0.5 h-64 bg-gray-200 dark:bg-zinc-700"></div>
 
               <div className="flex justify-center">
                 <img
