@@ -29,10 +29,7 @@ const Home = () => {
           content="Say more with Threads — Instagram's new text app."
         />
 
-        <link
-          rel="icon"
-          href="https://static.xx.fbcdn.net/rsrc.php/v3/yV/r/_8T3PbCSTRI.png"
-        />
+        <link rel="icon" href="/assets/logo.svg" />
       </Head>
 
       <header className="py-2 flex items-center justify-center">
